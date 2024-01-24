@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### I'm **SHARMA JI** , a passionate frontend developer with a keen interest in creating delightful and user-centric web experiences. 👨‍💻
+### I'm **ANKITH** , a passionate frontend developer with a keen interest in creating delightful and user-centric web experiences. 👨‍💻
 
  🔭 What I'm Currently Working On upskilling my full Stack Skills
  
